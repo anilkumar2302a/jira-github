@@ -1,2 +1,2 @@
-print("Hello from your local code")
-print("Hello from remote repo")
+print("Hello from your code")
+print("Hello from GitHub")
