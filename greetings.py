@@ -1,5 +1,2 @@
-print("Hey Anil")
-print("Good Morning!")
-print("Welcome to Git practice")
-print("Welcome to Github practice")
-print("Greetings for the Day")
+print("Hello from your local code")
+print("Hello from remote repo")
